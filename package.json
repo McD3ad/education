@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack --config webpack.config.js",
     "watch": "webpack --watch --config webpack.config.js",
-    "prod": "webpack --config webpack.config.prod.js"
+    "prod": "webpack --config webpack.prod.js"
   },
   "keywords": [],
   "author": "Talanoff",
